@@ -3,12 +3,12 @@
 ## Participant
 
 * Name: Md. Safwan Hossain Safi
-* Registration Number: [KEEP AS PLACEHOLDER — I WILL FILL THIS]
+* Registration Number: 251-15-520
 * Competition: AI DevFest 2026 — Vibe Coding
 
 ## Live Demo
 
-* Public HTTPS URL: [TO BE ADDED AFTER DEPLOYMENT]
+* Public HTTPS URL: https://dev-fest-md-safwan-hossain-safi-vibe-coding-onfyzr3x6.vercel.app/
 
 ## GitHub Repository
 
@@ -96,6 +96,7 @@ AI tools were used for code generation, architecture planning, and development a
 ## Most Useful Prompt
 
 > "Build the application foundation, requirements.json loading, tender information display, requirements list, PDF upload/page-count functionality, matching, expiry validation, duplicate detection, status engine, bilingual UI, and browser-only PDF generation according to the AI DevFest 2026 Vibe Coding problem statement."
+Chatgpt prompt history: https://chatgpt.com/share/6ac4f1d7-f52c-83ee-ba5f-01d14cc06ecd
 
 ## Technology
 
