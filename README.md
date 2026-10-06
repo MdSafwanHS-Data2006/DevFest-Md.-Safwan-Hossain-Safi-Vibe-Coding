@@ -96,7 +96,8 @@ AI tools were used for code generation, architecture planning, and development a
 ## Most Useful Prompt
 
 > "Build the application foundation, requirements.json loading, tender information display, requirements list, PDF upload/page-count functionality, matching, expiry validation, duplicate detection, status engine, bilingual UI, and browser-only PDF generation according to the AI DevFest 2026 Vibe Coding problem statement."
-Chatgpt prompt history: https://chatgpt.com/share/6ac4f1d7-f52c-83ee-ba5f-01d14cc06ecd
+> **ChatGPT prompt history:** https://chatgpt.com/share/6ac4f36d-74dc-83ec-bf5f-ac912106870a
+
 
 ## Technology
 
@@ -106,6 +107,13 @@ Chatgpt prompt history: https://chatgpt.com/share/6ac4f1d7-f52c-83ee-ba5f-01d14c
 * **pdf-lib**
 * **pdfjs-dist**
 * **Lucide React**
+
+## Commits
+
+* **c8aa065 (HEAD -> main, origin/main, origin/HEAD) Configure GitHub Pages deployment**
+* **7ab9667 Complete contest README**
+* **fd9828a Build core Tender Document Package Builder**
+* **e532eb7 Initial commit**
 
 ## License
 
