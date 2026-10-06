@@ -1,0 +1,67 @@
+{
+  "tender": {
+    "tender_id": "WD-2026-PKG-094",
+    "title": "Procurement of High-Capacity Server Hardware and Archival Storage",
+    "procuring_entity": "Directorate General of Information & Communication Technology (DoICT)",
+    "bidder": "Apex Technologies & Solutions Consortium Ltd.",
+    "submission_deadline": "2026-11-20"
+  },
+  "requirements": [
+    {
+      "id": "req-01",
+      "order": 1,
+      "title_en": "Up-to-date Valid Trade License",
+      "title_bn": "হালনাগাদ বৈধ ট্রেড লাইসেন্স",
+      "mandatory": true,
+      "has_expiry": true
+    },
+    {
+      "id": "req-02",
+      "order": 2,
+      "title_en": "TIN & Latest Income Tax Assessment Certificate",
+      "title_bn": "টিআইএন ও সর্বশেষ আয়কর দাখিলের সনদ",
+      "mandatory": true,
+      "has_expiry": false
+    },
+    {
+      "id": "req-03",
+      "order": 3,
+      "title_en": "BIN / 13-Digit VAT Registration Certificate",
+      "title_bn": "বিআইএন / ১৩ ডিজিটের ভ্যাট নিবন্ধন সনদ",
+      "mandatory": true,
+      "has_expiry": false
+    },
+    {
+      "id": "req-04",
+      "order": 4,
+      "title_en": "Manufacturer's Authorization Form (MAF)",
+      "title_bn": "প্রস্তুতকারকের অনুমোদনপত্র (MAF)",
+      "mandatory": true,
+      "has_expiry": true
+    },
+    {
+      "id": "req-05",
+      "order": 5,
+      "title_en": "Bank Solvency & Credit Facility Certificate",
+      "title_bn": "ব্যাংক স্বচ্ছলতা ও আর্থিক সক্ষমতার সনদ",
+      "mandatory": true,
+      "has_expiry": true
+    },
+    {
+      "id": "req-06",
+      "order": 6,
+      "title_en": "ISO 9001:2015 Quality Management Certificate",
+      "title_bn": "আইএসও ৯০০১:২০১৫ মান নিয়ন্ত্রণ সনদ",
+      "mandatory": false,
+      "has_expiry": true
+    },
+    {
+      "id": "req-07",
+      "order": 7,
+      "title_en": "Similar Work Experience & Completion Certificates",
+      "title_bn": "অনুরূপ কাজের অভিজ্ঞতা ও সমাপনী সনদপত্র",
+      "mandatory": false,
+      "has_expiry": false
+    }
+  ]
+}
